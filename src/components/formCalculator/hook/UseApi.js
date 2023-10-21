@@ -25,4 +25,6 @@ const UseApi = async (amount, date) => {
     }
 }
 
-export default UseApi
+export default UseApi;
+
+
